@@ -1,0 +1,10 @@
+# Ignorar arquivos temporários e caches
+__pycache__/
+*.py[cod]
+*$py.class
+.cache/
+*.tmp
+*.log
+.env
+.env.*
+!.env.example
